@@ -55,6 +55,11 @@ section {
     gap: 1rem;
 }
 
+.mb-3{
+    width: 782px;
+    height: 324px;
+}
+
 
 .botao-inicio {
     background-color: var(--laranja-claro);
